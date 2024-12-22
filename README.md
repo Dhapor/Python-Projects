@@ -8,12 +8,6 @@ Here, you'll find a variety of small projects that cover different programming c
 - Beginners who are learning Python and looking to build their skills.
 - Anyone interested in simple, practical projects to expand their programming knowledge.
 
-**Projects Include:**
-- Web browser automation with `webbrowser` library.
-- Data manipulation with Pandas or NumPy.
-- Simple game development concepts (if applicable).
-- Basic data analysis and visualization projects.
-
 Feel free to explore, modify, and build on these projects to tailor them to your learning goals. Each project is designed to provide a starting point that you can enhance or expand.
 
 ## How to Use
