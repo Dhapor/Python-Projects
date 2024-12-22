@@ -14,4 +14,4 @@ Feel free to explore, modify, and build on these projects to tailor them to your
 To start working with these projects:
 1. Clone the repository to your local machine:
    ```bash
-   git clone <[repository-url](https://github.com/Dhapor/Python-Projects.git)>
+ git clone <repository-url>
